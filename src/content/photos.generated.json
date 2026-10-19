@@ -1,0 +1,1625 @@
+[
+  {
+    "id": "dog",
+    "file": "dog.webp",
+    "label": "dog",
+    "tags": [
+      "living:yes"
+    ],
+    "title": "Dülmen, Hausdülmen, Golden Retriever -- 2022 -- 5945.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hausd%C3%BClmen,_Golden_Retriever_--_2022_--_5945.jpg"
+  },
+  {
+    "id": "oak-tree",
+    "file": "oak-tree.webp",
+    "label": "tree",
+    "tags": [
+      "living:yes"
+    ],
+    "title": "Oak tree Sunol Regional Wilderness California 2023 dllu.jpg",
+    "author": "Daniel Lu (User:dllu)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oak_tree_Sunol_Regional_Wilderness_California_2023_dllu.jpg"
+  },
+  {
+    "id": "sunflower",
+    "file": "sunflower.webp",
+    "label": "sunflower",
+    "tags": [
+      "living:yes"
+    ],
+    "title": "Sunflower (Helianthus annuus) D35 5966 01.jpg",
+    "author": "Adarsh Patel",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunflower_(Helianthus_annuus)_D35_5966_01.jpg"
+  },
+  {
+    "id": "cat",
+    "file": "cat.webp",
+    "label": "cat",
+    "tags": [
+      "living:yes",
+      "adult:cat"
+    ],
+    "title": "Felis catus-cat on snow.jpg",
+    "author": "Von.grzanka",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Felis_catus-cat_on_snow.jpg"
+  },
+  {
+    "id": "mushroom",
+    "file": "mushroom.webp",
+    "label": "mushroom",
+    "tags": [
+      "living:yes"
+    ],
+    "title": "Fly Agaric mushroom 04.jpg",
+    "author": "Tony Wills",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fly_Agaric_mushroom_04.jpg"
+  },
+  {
+    "id": "boulder",
+    "file": "boulder.webp",
+    "label": "rock",
+    "tags": [
+      "living:no",
+      "state:solid",
+      "texture:hard",
+      "seed:no"
+    ],
+    "title": "Granite boulder beside Argyll and Sutherland Highlanders War Memorial, Oban, July 2020.jpg",
+    "author": "Blood Red Sandman",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Granite_boulder_beside_Argyll_and_Sutherland_Highlanders_War_Memorial,_Oban,_July_2020.jpg"
+  },
+  {
+    "id": "chair",
+    "file": "chair.webp",
+    "label": "chair",
+    "tags": [
+      "living:no",
+      "texture:hard"
+    ],
+    "title": "Beach chair.jpg",
+    "author": "Daniel Schwen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Beach_chair.jpg"
+  },
+  {
+    "id": "soccer-ball",
+    "file": "soccer-ball.webp",
+    "label": "ball",
+    "tags": [
+      "living:no",
+      "plantneed:no"
+    ],
+    "title": "Adidas soccer ball on a grass pitch (Unsplash).jpg",
+    "author": "Peter Glaser baraida",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
+  },
+  {
+    "id": "bicycle",
+    "file": "bicycle.webp",
+    "label": "bicycle",
+    "tags": [
+      "living:no"
+    ],
+    "title": "Parked bicycle with graffitied building facade and doors in Amsterdam.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Parked_bicycle_with_graffitied_building_facade_and_doors_in_Amsterdam.jpg"
+  },
+  {
+    "id": "spoon",
+    "file": "spoon.webp",
+    "label": "spoon",
+    "tags": [
+      "living:no",
+      "texture:hard",
+      "state:solid"
+    ],
+    "title": "Circa 1910 'Moclips by the Sea' silver spoons - Museum of the North Beach.jpg",
+    "author": "Photo by Joe Mabel",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Circa_1910_%27Moclips_by_the_Sea%27_silver_spoons_-_Museum_of_the_North_Beach.jpg"
+  },
+  {
+    "id": "teapot",
+    "file": "teapot.webp",
+    "label": "teapot",
+    "tags": [
+      "living:no"
+    ],
+    "title": "Teapot 2010 G1.jpg",
+    "author": "George Chernilevsky",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Teapot_2010_G1.jpg"
+  },
+  {
+    "id": "watering",
+    "file": "watering.webp",
+    "label": "watering can",
+    "tags": [
+      "plantneed:yes"
+    ],
+    "title": "Achenkirch - Urlaub 2013 - Dinge - Gießkanne 003.jpg",
+    "author": "Mummelgrummel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achenkirch_-_Urlaub_2013_-_Dinge_-_Gie%C3%9Fkanne_003.jpg"
+  },
+  {
+    "id": "sunbeams",
+    "file": "sunbeams.webp",
+    "label": "sunlight",
+    "tags": [
+      "plantneed:yes"
+    ],
+    "title": "Sunbeams Filtering Through the Forest Canopy at National Botanical Garden, Bangladesh.jpg",
+    "author": "Mahbub Hasan Mreedul",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunbeams_Filtering_Through_the_Forest_Canopy_at_National_Botanical_Garden,_Bangladesh.jpg"
+  },
+  {
+    "id": "garden-soil",
+    "file": "garden-soil.webp",
+    "label": "soil",
+    "tags": [
+      "plantneed:yes"
+    ],
+    "title": "French Guiana tropical soil.jpg",
+    "author": "Cayambe",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:French_Guiana_tropical_soil.jpg"
+  },
+  {
+    "id": "rain-plant",
+    "file": "rain-plant.webp",
+    "label": "rain",
+    "tags": [
+      "plantneed:yes"
+    ],
+    "title": "Closeup of the raindrops on the leaf.jpg",
+    "author": "Shixart1985",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Closeup_of_the_raindrops_on_the_leaf.jpg"
+  },
+  {
+    "id": "lollipop",
+    "file": "lollipop.webp",
+    "label": "candy",
+    "tags": [
+      "plantneed:no",
+      "living:no"
+    ],
+    "title": "Chupa Chups variants (1).jpg",
+    "author": "毒島みるく",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Chupa_Chups_variants_(1).jpg"
+  },
+  {
+    "id": "sneaker",
+    "file": "sneaker.webp",
+    "label": "shoe",
+    "tags": [
+      "plantneed:no",
+      "living:no"
+    ],
+    "title": "2023 Adidas Yeezy 350 V2 EF2905 (1).jpg",
+    "author": "Jacek Halicki",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Adidas_Yeezy_350_V2_EF2905_(1).jpg"
+  },
+  {
+    "id": "teddy",
+    "file": "teddy.webp",
+    "label": "teddy bear",
+    "tags": [
+      "plantneed:no",
+      "living:no",
+      "texture:soft"
+    ],
+    "title": "Shimokitazawa Teddy bears-20091016-RM-191205.jpg",
+    "author": "Reinhold Möller Ermell",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shimokitazawa_Teddy_bears-20091016-RM-191205.jpg"
+  },
+  {
+    "id": "toy-blocks",
+    "file": "toy-blocks.webp",
+    "label": "toy bricks",
+    "tags": [
+      "plantneed:no",
+      "living:no"
+    ],
+    "title": "Pile of light gray LEGO bricks at a LEGO store.jpg",
+    "author": "Grendelkhan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pile_of_light_gray_LEGO_bricks_at_a_LEGO_store.jpg"
+  },
+  {
+    "id": "sunny-1",
+    "file": "sunny-1.webp",
+    "label": "sunny day",
+    "tags": [
+      "weather:sunny"
+    ],
+    "title": "Albizia saman trunk leaning over the water on a Mekong bank in sunshine at golden hour (2).jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Albizia_saman_trunk_leaning_over_the_water_on_a_Mekong_bank_in_sunshine_at_golden_hour_(2).jpg"
+  },
+  {
+    "id": "sunny-2",
+    "file": "sunny-2.webp",
+    "label": "sunny day",
+    "tags": [
+      "weather:sunny"
+    ],
+    "title": "Sunny summer day at Ponsler Wayside.jpg",
+    "author": "Rick Obst",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunny_summer_day_at_Ponsler_Wayside.jpg"
+  },
+  {
+    "id": "rainy-1",
+    "file": "rainy-1.webp",
+    "label": "rainy day",
+    "tags": [
+      "weather:rainy"
+    ],
+    "title": "Cars crossing intersection on Nathan Road during heavy rain.jpg",
+    "author": "Benlisquare",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cars_crossing_intersection_on_Nathan_Road_during_heavy_rain.jpg"
+  },
+  {
+    "id": "rainy-2",
+    "file": "rainy-2.webp",
+    "label": "rainy day",
+    "tags": [
+      "weather:rainy"
+    ],
+    "title": "A Madrasa Child Leaping from a Train with an Umbrella in the Rain, Bangladesh.jpg",
+    "author": "Ayman Nakib Badhan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_Madrasa_Child_Leaping_from_a_Train_with_an_Umbrella_in_the_Rain,_Bangladesh.jpg"
+  },
+  {
+    "id": "snowy-1",
+    "file": "snowy-1.webp",
+    "label": "snowy day",
+    "tags": [
+      "weather:snowy"
+    ],
+    "title": "Bike on a snowy street in Quebec City at night.jpg",
+    "author": "Wilfredor",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Bike_on_a_snowy_street_in_Quebec_City_at_night.jpg"
+  },
+  {
+    "id": "snowy-2",
+    "file": "snowy-2.webp",
+    "label": "snowy day",
+    "tags": [
+      "weather:snowy"
+    ],
+    "title": "Snowy and slushy roundabout in Cross Houses - geograph.org.uk - 8231221.jpg",
+    "author": "TCExplorer",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Snowy_and_slushy_roundabout_in_Cross_Houses_-_geograph.org.uk_-_8231221.jpg"
+  },
+  {
+    "id": "stormy-1",
+    "file": "stormy-1.webp",
+    "label": "thunderstorm",
+    "tags": [
+      "weather:stormy"
+    ],
+    "title": "Lightning Pritzerbe 01 (MK).jpg",
+    "author": "Mathias Krumbholz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lightning_Pritzerbe_01_(MK).jpg"
+  },
+  {
+    "id": "stormy-2",
+    "file": "stormy-2.webp",
+    "label": "thunderstorm",
+    "tags": [
+      "weather:stormy"
+    ],
+    "title": "First Bolt of Lightning 02.jpg",
+    "author": "Grice, William b.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Bolt_of_Lightning_02.jpg"
+  },
+  {
+    "id": "cloudy-1",
+    "file": "cloudy-1.webp",
+    "label": "cloudy day",
+    "tags": [
+      "weather:cloudy"
+    ],
+    "title": "Overcast sky rural landscape Altinova Yalova 2023.jpg",
+    "author": "Furkan Akkurt",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Overcast_sky_rural_landscape_Altinova_Yalova_2023.jpg"
+  },
+  {
+    "id": "sun-sky",
+    "file": "sun-sky.webp",
+    "label": "the sun",
+    "tags": [
+      "warmer:yes",
+      "sky:day"
+    ],
+    "title": "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg",
+    "author": "NASA/SDO (AIA)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg"
+  },
+  {
+    "id": "sunny-sand",
+    "file": "sunny-sand.webp",
+    "label": "sunny sand",
+    "tags": [
+      "warm:sun"
+    ],
+    "title": "Havelock Island, Sandy lagoon, Andaman Islands.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Havelock_Island,_Sandy_lagoon,_Andaman_Islands.jpg"
+  },
+  {
+    "id": "sunny-path",
+    "file": "sunny-path.webp",
+    "label": "sunny sidewalk",
+    "tags": [
+      "warm:sun"
+    ],
+    "title": "DSC 7044 A sunlit walkway lined with potted plants stretching toward the horizon under a clear blue sky.jpg",
+    "author": "PattayaPatrol",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DSC_7044_A_sunlit_walkway_lined_with_potted_plants_stretching_toward_the_horizon_under_a_clear_blue_sky.jpg"
+  },
+  {
+    "id": "tree-shade",
+    "file": "tree-shade.webp",
+    "label": "shade under a tree",
+    "tags": [
+      "warm:shade"
+    ],
+    "title": "Sheep lounging in the shade of a tree at Röe Castle.jpg",
+    "author": "W.carter",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_lounging_in_the_shade_of_a_tree_at_R%C3%B6e_Castle.jpg"
+  },
+  {
+    "id": "umbrella-shade",
+    "file": "umbrella-shade.webp",
+    "label": "shade under an umbrella",
+    "tags": [
+      "warm:shade"
+    ],
+    "title": "Umbrella shading - umbrella shaded - Flickr - byzantiumbooks.jpg",
+    "author": "Bill Smith from Virginia Beach",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Umbrella_shading_-_umbrella_shaded_-_Flickr_-_byzantiumbooks.jpg"
+  },
+  {
+    "id": "full-moon",
+    "file": "full-moon.webp",
+    "label": "the moon",
+    "tags": [
+      "sky:night",
+      "warmer:no"
+    ],
+    "title": "Full moon over Gullmarn fjord at Holma Marina 2.jpg",
+    "author": "W.carter",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Full_moon_over_Gullmarn_fjord_at_Holma_Marina_2.jpg"
+  },
+  {
+    "id": "milky-way",
+    "file": "milky-way.webp",
+    "label": "stars at night",
+    "tags": [
+      "sky:night"
+    ],
+    "title": "036 Milky Way during Perseids seen from Oeschinensee with water reflections Photo by Giles Laurent.jpg",
+    "author": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:036_Milky_Way_during_Perseids_seen_from_Oeschinensee_with_water_reflections_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": "crescent",
+    "file": "crescent.webp",
+    "label": "moon at night",
+    "tags": [
+      "sky:night"
+    ],
+    "title": "Waxing Crescent Moon in Kurseong September 2026 by Paramanu Sarkar.jpg",
+    "author": "Paramanu Sarkar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Waxing_Crescent_Moon_in_Kurseong_September_2026_by_Paramanu_Sarkar.jpg"
+  },
+  {
+    "id": "day-sky",
+    "file": "day-sky.webp",
+    "label": "daytime sky",
+    "tags": [
+      "sky:day"
+    ],
+    "title": "Vat Pa Phai temple with a Buddhist monk, orange marigold, clouds and blue sky, in Luang Prabang.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vat_Pa_Phai_temple_with_a_Buddhist_monk,_orange_marigold,_clouds_and_blue_sky,_in_Luang_Prabang.jpg"
+  },
+  {
+    "id": "sunrise",
+    "file": "sunrise.webp",
+    "label": "sunrise",
+    "tags": [
+      "sky:day"
+    ],
+    "title": "Dead Sea sunrise.jpg",
+    "author": "High Contrast",
+    "license": "CC BY 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Dead_Sea_sunrise.jpg"
+  },
+  {
+    "id": "night-city",
+    "file": "night-city.webp",
+    "label": "night",
+    "tags": [
+      "sky:night"
+    ],
+    "title": "Price Building illuminated at night in Quebec City.jpg",
+    "author": "Wilfredor",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Price_Building_illuminated_at_night_in_Quebec_City.jpg"
+  },
+  {
+    "id": "winter-1",
+    "file": "winter-1.webp",
+    "label": "winter",
+    "tags": [
+      "season:winter",
+      "warmer:no"
+    ],
+    "title": "Russia. Moscow Region. Winter pine wood, lake Kratovskoe area.JPG",
+    "author": "Aleks G",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Russia._Moscow_Region._Winter_pine_wood,_lake_Kratovskoe_area.JPG"
+  },
+  {
+    "id": "winter-2",
+    "file": "winter-2.webp",
+    "label": "winter",
+    "tags": [
+      "season:winter"
+    ],
+    "title": "Huanglong China Children-with-almond-eye-snowman-01.jpg",
+    "author": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Huanglong_China_Children-with-almond-eye-snowman-01.jpg"
+  },
+  {
+    "id": "spring-1",
+    "file": "spring-1.webp",
+    "label": "spring",
+    "tags": [
+      "season:spring"
+    ],
+    "title": "Cherry blossom buds 1.jpg",
+    "author": "W.carter",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Cherry_blossom_buds_1.jpg"
+  },
+  {
+    "id": "spring-2",
+    "file": "spring-2.webp",
+    "label": "spring",
+    "tags": [
+      "season:spring"
+    ],
+    "title": "Münster, Wolbeck, Johannes Blumenfelder, Tulpen -- 2021 -- 7846.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Wolbeck,_Johannes_Blumenfelder,_Tulpen_--_2021_--_7846.jpg"
+  },
+  {
+    "id": "summer-1",
+    "file": "summer-1.webp",
+    "label": "summer",
+    "tags": [
+      "season:summer"
+    ],
+    "title": "Badesee Niederweimar.jpg",
+    "author": "Hydro",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Badesee_Niederweimar.jpg"
+  },
+  {
+    "id": "fall-1",
+    "file": "fall-1.webp",
+    "label": "fall",
+    "tags": [
+      "season:fall"
+    ],
+    "title": "Münster, Park Sentmaring -- 2015 -- 9923.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Park_Sentmaring_--_2015_--_9923.jpg"
+  },
+  {
+    "id": "fall-2",
+    "file": "fall-2.webp",
+    "label": "fall",
+    "tags": [
+      "season:fall"
+    ],
+    "title": "Autumn decoration - Karlsruhe Zoo.jpg",
+    "author": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Autumn_decoration_-_Karlsruhe_Zoo.jpg"
+  },
+  {
+    "id": "goldfish",
+    "file": "goldfish.webp",
+    "label": "goldfish",
+    "tags": [
+      "part:fins",
+      "pollinator:no",
+      "habitat:pond"
+    ],
+    "title": "Carassius auratus black telescope.jpg",
+    "author": "IssamBarhoumi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carassius_auratus_black_telescope.jpg"
+  },
+  {
+    "id": "tortoise",
+    "file": "tortoise.webp",
+    "label": "tortoise",
+    "tags": [
+      "part:shell"
+    ],
+    "title": "Radiated tortoise (Astrochelys radiata) Tsimanampetsotsa.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Radiated_tortoise_(Astrochelys_radiata)_Tsimanampetsotsa.jpg"
+  },
+  {
+    "id": "snail",
+    "file": "snail.webp",
+    "label": "snail",
+    "tags": [
+      "part:shell"
+    ],
+    "title": "Baby Garden Snail (Cornu aspersum).jpg",
+    "author": "Matthew T Rader",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baby_Garden_Snail_(Cornu_aspersum).jpg"
+  },
+  {
+    "id": "seagull-flying",
+    "file": "seagull-flying.webp",
+    "label": "flying gull",
+    "tags": [
+      "part:wings"
+    ],
+    "title": "Seagull flying (4).jpg",
+    "author": "Arnold Paul",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Seagull_flying_(4).jpg"
+  },
+  {
+    "id": "eagle-flying",
+    "file": "eagle-flying.webp",
+    "label": "flying eagle",
+    "tags": [
+      "part:wings",
+      "habitat:forest"
+    ],
+    "title": "015 Wild Golden Eagle in flight at Pfyn-Finges (Switzerland) Photo by Giles Laurent.jpg",
+    "author": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": "elephant",
+    "file": "elephant.webp",
+    "label": "elephant",
+    "tags": [
+      "part:trunk"
+    ],
+    "title": "African bush elephants (Loxodonta africana) female with six-week-old baby.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:African_bush_elephants_(Loxodonta_africana)_female_with_six-week-old_baby.jpg"
+  },
+  {
+    "id": "giraffe",
+    "file": "giraffe.webp",
+    "label": "giraffe",
+    "tags": [
+      "part:longneck"
+    ],
+    "title": "Closeup of giraffe eating acacia leaves, Samburu National Reserve, Kenya.jpg",
+    "author": "Daniel Case",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Closeup_of_giraffe_eating_acacia_leaves,_Samburu_National_Reserve,_Kenya.jpg"
+  },
+  {
+    "id": "hedgehog",
+    "file": "hedgehog.webp",
+    "label": "hedgehog",
+    "tags": [
+      "part:spines"
+    ],
+    "title": "Erinaceus roumanicus 2020 G2.jpg",
+    "author": "George Chernilevsky",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Erinaceus_roumanicus_2020_G2.jpg"
+  },
+  {
+    "id": "porcupine",
+    "file": "porcupine.webp",
+    "label": "porcupine",
+    "tags": [
+      "part:spines"
+    ],
+    "title": "North American porcupine (Erethizon dorsatum nigrescens) Yoho.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:North_American_porcupine_(Erethizon_dorsatum_nigrescens)_Yoho.jpg"
+  },
+  {
+    "id": "shark",
+    "file": "shark.webp",
+    "label": "shark",
+    "tags": [
+      "part:fins",
+      "habitat:ocean"
+    ],
+    "title": "Blacktip reef shark (Carcharhinus melanopterus) Moorea 5.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blacktip_reef_shark_(Carcharhinus_melanopterus)_Moorea_5.jpg"
+  },
+  {
+    "id": "cow",
+    "file": "cow.webp",
+    "label": "cow",
+    "tags": [
+      "adult:cow",
+      "pollinator:no"
+    ],
+    "title": "Cow (Fleckvieh breed) Oeschinensee Slaunger 2009-07-07.jpg",
+    "author": "Kim Hansen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg"
+  },
+  {
+    "id": "calf",
+    "file": "calf.webp",
+    "label": "calf",
+    "tags": [
+      "baby:cow"
+    ],
+    "title": "First prize Holstein calf at stock show, Alaska-Yukon-Pacific Exposition, Seattle, 1909 (MOHAI 4288).jpg",
+    "author": "Frank H. Nowell",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:First_prize_Holstein_calf_at_stock_show,_Alaska-Yukon-Pacific_Exposition,_Seattle,_1909_(MOHAI_4288).jpg"
+  },
+  {
+    "id": "puppy",
+    "file": "puppy.webp",
+    "label": "puppy",
+    "tags": [
+      "baby:dog"
+    ],
+    "title": "White dog sleeping on the floor with puppies after nursing in Don Det Laos.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:White_dog_sleeping_on_the_floor_with_puppies_after_nursing_in_Don_Det_Laos.jpg"
+  },
+  {
+    "id": "dog-adult",
+    "file": "dog-adult.webp",
+    "label": "dog",
+    "tags": [
+      "adult:dog"
+    ],
+    "title": "Labrador-retriever.jpg",
+    "author": "Webdude1",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Labrador-retriever.jpg"
+  },
+  {
+    "id": "kitten",
+    "file": "kitten.webp",
+    "label": "kitten",
+    "tags": [
+      "baby:cat"
+    ],
+    "title": "Oriental shorthair kitten.jpg",
+    "author": "Felinlove",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oriental_shorthair_kitten.jpg"
+  },
+  {
+    "id": "horse",
+    "file": "horse.webp",
+    "label": "horse",
+    "tags": [
+      "adult:horse"
+    ],
+    "title": "Dülmen, Merfeld, Dülmener Pferde im Merfelder Bruch -- 2023 -- 6958.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Merfeld,_D%C3%BClmener_Pferde_im_Merfelder_Bruch_--_2023_--_6958.jpg"
+  },
+  {
+    "id": "foal",
+    "file": "foal.webp",
+    "label": "foal",
+    "tags": [
+      "baby:horse"
+    ],
+    "title": "Pony foal on Cox Tor.jpg",
+    "author": "Nilfanion",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pony_foal_on_Cox_Tor.jpg"
+  },
+  {
+    "id": "hen",
+    "file": "hen.webp",
+    "label": "hen",
+    "tags": [
+      "adult:chicken"
+    ],
+    "title": "Hen with chicks, Raisen district, MP, India.jpg",
+    "author": "Yann (talk)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hen_with_chicks,_Raisen_district,_MP,_India.jpg"
+  },
+  {
+    "id": "chick",
+    "file": "chick.webp",
+    "label": "chick",
+    "tags": [
+      "baby:chicken"
+    ],
+    "title": "New Born Baby Chicks.jpg",
+    "author": "Yvessurbano0",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Born_Baby_Chicks.jpg"
+  },
+  {
+    "id": "duck",
+    "file": "duck.webp",
+    "label": "duck",
+    "tags": [
+      "adult:duck"
+    ],
+    "title": "Anas platyrhynchos male female.jpg",
+    "author": "This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female.jpg"
+  },
+  {
+    "id": "duckling",
+    "file": "duckling.webp",
+    "label": "duckling",
+    "tags": [
+      "baby:duck"
+    ],
+    "title": "20240614 mallard hen and ducklings wethersfield cove PD200594.jpg",
+    "author": "Paul Danese",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20240614_mallard_hen_and_ducklings_wethersfield_cove_PD200594.jpg"
+  },
+  {
+    "id": "sheep",
+    "file": "sheep.webp",
+    "label": "sheep",
+    "tags": [
+      "adult:sheep"
+    ],
+    "title": "Swaledale Sheep, Lake District, England - June 2009.jpg",
+    "author": "User:Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Swaledale_Sheep,_Lake_District,_England_-_June_2009.jpg"
+  },
+  {
+    "id": "lamb",
+    "file": "lamb.webp",
+    "label": "lamb",
+    "tags": [
+      "baby:sheep"
+    ],
+    "title": "Lamb - Animal Park Muggensturm 01.jpg",
+    "author": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamb_-_Animal_Park_Muggensturm_01.jpg"
+  },
+  {
+    "id": "frog",
+    "file": "frog.webp",
+    "label": "frog",
+    "tags": [
+      "adult:frog",
+      "habitat:pond"
+    ],
+    "title": "Green frog (Pelophylax esculentus complex) Danube delta.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Green_frog_(Pelophylax_esculentus_complex)_Danube_delta.jpg"
+  },
+  {
+    "id": "monarch",
+    "file": "monarch.webp",
+    "label": "butterfly",
+    "tags": [
+      "adult:butterfly",
+      "pollinator:yes",
+      "part:wings"
+    ],
+    "title": "Monarch butterfly (70387).jpg",
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monarch_butterfly_(70387).jpg"
+  },
+  {
+    "id": "caterpillar",
+    "file": "caterpillar.webp",
+    "label": "caterpillar",
+    "tags": [
+      "baby:butterfly"
+    ],
+    "title": "Monarch caterpillar (23229).jpg",
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monarch_caterpillar_(23229).jpg"
+  },
+  {
+    "id": "water-glass",
+    "file": "water-glass.webp",
+    "label": "glass of water",
+    "tags": [
+      "state:liquid"
+    ],
+    "title": "Blue glass with carbonated water.jpg",
+    "author": "W.carter",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Blue_glass_with_carbonated_water.jpg"
+  },
+  {
+    "id": "milk",
+    "file": "milk.webp",
+    "label": "milk",
+    "tags": [
+      "state:liquid"
+    ],
+    "title": "A Glass of Milk.jpg",
+    "author": "Peachyeung316",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_Glass_of_Milk.jpg"
+  },
+  {
+    "id": "orange-juice",
+    "file": "orange-juice.webp",
+    "label": "juice",
+    "tags": [
+      "state:liquid"
+    ],
+    "title": "Orange juice 1 edit1.jpg",
+    "author": "Agency of the United States Department of Agriculture Edited Version by: Arad",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Orange_juice_1_edit1.jpg"
+  },
+  {
+    "id": "ice-cubes",
+    "file": "ice-cubes.webp",
+    "label": "ice cubes",
+    "tags": [
+      "state:solid",
+      "texture:hard"
+    ],
+    "title": "Coca-Cola-Eiswürfel in Coca-Cola 20240815.jpg",
+    "author": "PantheraLeo1359531",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coca-Cola-Eisw%C3%BCrfel_in_Coca-Cola_20240815.jpg"
+  },
+  {
+    "id": "bricks",
+    "file": "bricks.webp",
+    "label": "bricks",
+    "tags": [
+      "state:solid",
+      "texture:hard"
+    ],
+    "title": "DSC08243 Memorial Stones for the Citizens of Łódź, Poland, 2025-09.jpg",
+    "author": "Aciarium",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DSC08243_Memorial_Stones_for_the_Citizens_of_%C5%81%C3%B3d%C5%BA,_Poland,_2025-09.jpg"
+  },
+  {
+    "id": "wood-block",
+    "file": "wood-block.webp",
+    "label": "wood",
+    "tags": [
+      "state:solid",
+      "texture:hard"
+    ],
+    "title": "Pine log cross-sections, Teutendorf, 2016-09-17.jpg",
+    "author": "Radomianin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pine_log_cross-sections,_Teutendorf,_2016-09-17.jpg"
+  },
+  {
+    "id": "steam",
+    "file": "steam.webp",
+    "label": "steam",
+    "tags": [
+      "state:gas"
+    ],
+    "title": "Yellow kettle with boiling water on stovetop.jpeg",
+    "author": "User:Ragesoss",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yellow_kettle_with_boiling_water_on_stovetop.jpeg"
+  },
+  {
+    "id": "pillow",
+    "file": "pillow.webp",
+    "label": "pillow",
+    "tags": [
+      "texture:soft"
+    ],
+    "title": "44 Made bed with richly decorated pillows and ornate bedspread.jpg",
+    "author": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:44_Made_bed_with_richly_decorated_pillows_and_ornate_bedspread.jpg"
+  },
+  {
+    "id": "cotton",
+    "file": "cotton.webp",
+    "label": "cotton balls",
+    "tags": [
+      "texture:soft"
+    ],
+    "title": "Cotton balls qtl1.jpg",
+    "author": "Quartl",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cotton_balls_qtl1.jpg"
+  },
+  {
+    "id": "yarn",
+    "file": "yarn.webp",
+    "label": "yarn",
+    "tags": [
+      "texture:soft"
+    ],
+    "title": "Rainbow yarn for knitting, display in front of a needlework shop in Graz, Austria, GW23-100.jpg",
+    "author": "Lusi Lindwurm",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rainbow_yarn_for_knitting,_display_in_front_of_a_needlework_shop_in_Graz,_Austria,_GW23-100.jpg"
+  },
+  {
+    "id": "sponge",
+    "file": "sponge.webp",
+    "label": "towel",
+    "tags": [
+      "texture:soft"
+    ],
+    "title": "Towels (6397075881).jpg",
+    "author": "Marcin Wichary from San Francisco, Calif.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Towels_(6397075881).jpg"
+  },
+  {
+    "id": "honeybee",
+    "file": "honeybee.webp",
+    "label": "honey bee",
+    "tags": [
+      "pollinator:yes"
+    ],
+    "title": "Two bees absorbing pollen from an Iceland poppy in the flower garden of Gyeongju South Korea.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Two_bees_absorbing_pollen_from_an_Iceland_poppy_in_the_flower_garden_of_Gyeongju_South_Korea.jpg"
+  },
+  {
+    "id": "hummingbird",
+    "file": "hummingbird.webp",
+    "label": "hummingbird",
+    "tags": [
+      "pollinator:yes"
+    ],
+    "title": "Volcano hummingbird (Selasphorus flammula) female in flight 2.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Volcano_hummingbird_(Selasphorus_flammula)_female_in_flight_2.jpg"
+  },
+  {
+    "id": "bumblebee",
+    "file": "bumblebee.webp",
+    "label": "bumblebee",
+    "tags": [
+      "pollinator:yes"
+    ],
+    "title": "Bumblebee on Lavender Blossom.JPG",
+    "author": "Martin Falbisoner",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bumblebee_on_Lavender_Blossom.JPG"
+  },
+  {
+    "id": "acorn",
+    "file": "acorn.webp",
+    "label": "acorn",
+    "tags": [
+      "seed:yes"
+    ],
+    "title": "Acorns on the granite bench, October 2015 - Stacking.jpg",
+    "author": "Laitche",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acorns_on_the_granite_bench,_October_2015_-_Stacking.jpg"
+  },
+  {
+    "id": "sunflower-seeds",
+    "file": "sunflower-seeds.webp",
+    "label": "sunflower seeds",
+    "tags": [
+      "seed:yes"
+    ],
+    "title": "Sunflower with seeds 02.jpg",
+    "author": "Kritzolina",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunflower_with_seeds_02.jpg"
+  },
+  {
+    "id": "dandelion-seeds",
+    "file": "dandelion-seeds.webp",
+    "label": "dandelion seeds",
+    "tags": [
+      "seed:yes"
+    ],
+    "title": "Dandelion seed head (Taraxacum officinale).jpg",
+    "author": "Avenue",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dandelion_seed_head_(Taraxacum_officinale).jpg"
+  },
+  {
+    "id": "pinecone",
+    "file": "pinecone.webp",
+    "label": "pine cone",
+    "tags": [
+      "seed:yes"
+    ],
+    "title": "Ergaki, Siberian pine cone with seeds and foliage, Pinus sibirica, Sayan Mountains, Russia.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ergaki,_Siberian_pine_cone_with_seeds_and_foliage,_Pinus_sibirica,_Sayan_Mountains,_Russia.jpg"
+  },
+  {
+    "id": "squirrel",
+    "file": "squirrel.webp",
+    "label": "squirrel",
+    "tags": [
+      "habitat:forest",
+      "seedhelper:yes"
+    ],
+    "title": "Red squirrel (21808).jpg",
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_squirrel_(21808).jpg"
+  },
+  {
+    "id": "button",
+    "file": "button.webp",
+    "label": "toy car",
+    "tags": [
+      "seed:no",
+      "living:no"
+    ],
+    "title": "Old tin toy car, photo 2.JPG",
+    "author": "Alf van Beem",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Old_tin_toy_car,_photo_2.JPG"
+  },
+  {
+    "id": "marbles",
+    "file": "marbles.webp",
+    "label": "dice",
+    "tags": [
+      "seed:no",
+      "living:no"
+    ],
+    "title": "Dice - 1-2-4-5-6.jpg",
+    "author": "PierreSelim",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dice_-_1-2-4-5-6.jpg"
+  },
+  {
+    "id": "dolphin",
+    "file": "dolphin.webp",
+    "label": "dolphin",
+    "tags": [
+      "habitat:ocean"
+    ],
+    "title": "010 Atlantic bottlenose dolphin jumping at Pelican point Photo by Giles Laurent.jpg",
+    "author": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": "sea-turtle",
+    "file": "sea-turtle.webp",
+    "label": "sea turtle",
+    "tags": [
+      "habitat:ocean"
+    ],
+    "title": "Green Sea Turtle Swimming in the Galápagos.jpg",
+    "author": "MasterfulNerd",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_Swimming_in_the_Gal%C3%A1pagos.jpg"
+  },
+  {
+    "id": "starfish",
+    "file": "starfish.webp",
+    "label": "sea star",
+    "tags": [
+      "habitat:ocean"
+    ],
+    "title": "Reef starfish (Stichaster australis) doing push-ups.jpg",
+    "author": "Avenue",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reef_starfish_(Stichaster_australis)_doing_push-ups.jpg"
+  },
+  {
+    "id": "octopus",
+    "file": "octopus.webp",
+    "label": "octopus",
+    "tags": [
+      "habitat:ocean"
+    ],
+    "title": "Pulpo común (Octopus vulgaris), Parque natural de la Arrábida, Portugal, 2020-07-21, DD 33.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pulpo_com%C3%BAn_(Octopus_vulgaris),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2020-07-21,_DD_33.jpg"
+  },
+  {
+    "id": "camel",
+    "file": "camel.webp",
+    "label": "camel",
+    "tags": [
+      "habitat:desert"
+    ],
+    "title": "Dromedary in Thar desert.jpg",
+    "author": "Clément Bardot",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dromedary_in_Thar_desert.jpg"
+  },
+  {
+    "id": "lizard",
+    "file": "lizard.webp",
+    "label": "desert lizard",
+    "tags": [
+      "habitat:desert"
+    ],
+    "title": "Phrynosoma douglasii 4179.JPG",
+    "author": "Walter Siegmund (talk)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phrynosoma_douglasii_4179.JPG"
+  },
+  {
+    "id": "fennec",
+    "file": "fennec.webp",
+    "label": "fennec fox",
+    "tags": [
+      "habitat:desert"
+    ],
+    "title": "Fennec Fox Peek.jpg",
+    "author": "Anass ERRIHANI",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_Peek.jpg"
+  },
+  {
+    "id": "deer",
+    "file": "deer.webp",
+    "label": "deer",
+    "tags": [
+      "habitat:forest"
+    ],
+    "title": "014 Wild Red Deer Switzerland Photo by Giles Laurent.jpg",
+    "author": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:014_Wild_Red_Deer_Switzerland_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": "owl",
+    "file": "owl.webp",
+    "label": "owl",
+    "tags": [
+      "habitat:forest"
+    ],
+    "title": "Tawny Owl Strix aluco.jpg",
+    "author": "Иван Везенковић",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tawny_Owl_Strix_aluco.jpg"
+  },
+  {
+    "id": "polar-bear",
+    "file": "polar-bear.webp",
+    "label": "polar bear",
+    "tags": [
+      "habitat:arctic"
+    ],
+    "title": "Polar bear (Ursus maritimus) in the drift ice region north of Svalbard.jpg",
+    "author": "Andreas Weith",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Polar_bear_(Ursus_maritimus)_in_the_drift_ice_region_north_of_Svalbard.jpg"
+  },
+  {
+    "id": "arctic-fox",
+    "file": "arctic-fox.webp",
+    "label": "arctic fox",
+    "tags": [
+      "habitat:arctic"
+    ],
+    "title": "Alopex lagopus IMG 9019.JPG",
+    "author": "Rama",
+    "license": "CC BY-SA 2.0 fr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Alopex_lagopus_IMG_9019.JPG"
+  },
+  {
+    "id": "walrus",
+    "file": "walrus.webp",
+    "label": "walrus",
+    "tags": [
+      "habitat:arctic"
+    ],
+    "title": "Walrus (Odobenus rosmarus) on Svalbard.jpg",
+    "author": "AWeith",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Walrus_(Odobenus_rosmarus)_on_Svalbard.jpg"
+  },
+  {
+    "id": "scene-ocean",
+    "file": "scene-ocean.webp",
+    "label": "ocean",
+    "tags": [
+      "scene:ocean",
+      "land:ocean",
+      "water:liquid"
+    ],
+    "title": "Seal Rocks, Ocean Beach, San Francisco.jpg",
+    "author": "Radomianin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seal_Rocks,_Ocean_Beach,_San_Francisco.jpg"
+  },
+  {
+    "id": "scene-desert",
+    "file": "scene-desert.webp",
+    "label": "desert",
+    "tags": [
+      "scene:desert"
+    ],
+    "title": "Sossusvlei sand dunes.jpg",
+    "author": "Winfried Bruenken (Amrum)",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Sossusvlei_sand_dunes.jpg"
+  },
+  {
+    "id": "scene-forest",
+    "file": "scene-forest.webp",
+    "label": "forest",
+    "tags": [
+      "scene:forest"
+    ],
+    "title": "Beech forest Mátra in winter.jpg",
+    "author": "Susulyka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beech_forest_M%C3%A1tra_in_winter.jpg"
+  },
+  {
+    "id": "scene-arctic",
+    "file": "scene-arctic.webp",
+    "label": "arctic",
+    "tags": [
+      "scene:arctic",
+      "water:frozen"
+    ],
+    "title": "Lobodon carcinophagus on sea ice.jpg",
+    "author": "François Guerraz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lobodon_carcinophagus_on_sea_ice.jpg"
+  },
+  {
+    "id": "mountain",
+    "file": "mountain.webp",
+    "label": "mountain",
+    "tags": [
+      "land:mountain"
+    ],
+    "title": "Mountain Peak, Alaska (1999).jpg",
+    "author": "Godot13",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mountain_Peak,_Alaska_(1999).jpg"
+  },
+  {
+    "id": "river",
+    "file": "river.webp",
+    "label": "river",
+    "tags": [
+      "land:river",
+      "water:liquid"
+    ],
+    "title": "Pahalgam Valley.jpg",
+    "author": "KennyOMG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pahalgam_Valley.jpg"
+  },
+  {
+    "id": "lake",
+    "file": "lake.webp",
+    "label": "lake",
+    "tags": [
+      "land:lake",
+      "water:liquid"
+    ],
+    "title": "Peyto Lake-Banff NP-Canada.jpg",
+    "author": "Tobias Alt, Tobi 87",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peyto_Lake-Banff_NP-Canada.jpg"
+  },
+  {
+    "id": "volcano",
+    "file": "volcano.webp",
+    "label": "volcano",
+    "tags": [
+      "land:volcano"
+    ],
+    "title": "Mayon Volcano eruption at Daraga Church.jpg",
+    "author": "Jaycee Esmeria",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mayon_Volcano_eruption_at_Daraga_Church.jpg"
+  },
+  {
+    "id": "island",
+    "file": "island.webp",
+    "label": "island",
+    "tags": [
+      "land:island"
+    ],
+    "title": "A small island near Gumbostrand in Sipoo, Finland, March 2021.jpg",
+    "author": "Ximonic (Simo Räsänen)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_small_island_near_Gumbostrand_in_Sipoo,_Finland,_March_2021.jpg"
+  },
+  {
+    "id": "waterfall",
+    "file": "waterfall.webp",
+    "label": "waterfall",
+    "tags": [
+      "land:waterfall",
+      "water:liquid"
+    ],
+    "title": "Chamarel Falls Mauritius 2.JPG",
+    "author": "Martin Falbisoner",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chamarel_Falls_Mauritius_2.JPG"
+  },
+  {
+    "id": "glacier",
+    "file": "glacier.webp",
+    "label": "glacier",
+    "tags": [
+      "land:glacier",
+      "water:frozen"
+    ],
+    "title": "Perito Moreno Glacier January 2008 01.jpg",
+    "author": "Arild Vågen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_January_2008_01.jpg"
+  },
+  {
+    "id": "iceberg",
+    "file": "iceberg.webp",
+    "label": "iceberg",
+    "tags": [
+      "water:frozen"
+    ],
+    "title": "Icebergs in the High Arctic - 20050907.jpg",
+    "author": "Brocken Inaglory.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Icebergs_in_the_High_Arctic_-_20050907.jpg"
+  },
+  {
+    "id": "frozen-lake",
+    "file": "frozen-lake.webp",
+    "label": "frozen pond",
+    "tags": [
+      "water:frozen"
+    ],
+    "title": "Frozen Lake Shinko La Lahaul Jun24 A7CR 00315.jpg",
+    "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frozen_Lake_Shinko_La_Lahaul_Jun24_A7CR_00315.jpg"
+  },
+  {
+    "id": "coin-penny",
+    "file": "coin-penny.webp",
+    "label": "penny",
+    "tags": [
+      "coin:penny"
+    ],
+    "title": "2005 Penny Obv Unc D.png",
+    "author": "United States Mint",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:2005_Penny_Obv_Unc_D.png"
+  },
+  {
+    "id": "coin-nickel",
+    "file": "coin-nickel.webp",
+    "label": "nickel",
+    "tags": [
+      "coin:nickel"
+    ],
+    "title": "Jefferson-Nickel-crop.png",
+    "author": "design is by Felix Schlag",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Jefferson-Nickel-crop.png"
+  },
+  {
+    "id": "coin-dime",
+    "file": "coin-dime.webp",
+    "label": "dime",
+    "tags": [
+      "coin:dime"
+    ],
+    "title": "Dime Obverse 13.png",
+    "author": "United States Mint",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Dime_Obverse_13.png"
+  },
+  {
+    "id": "coin-quarter",
+    "file": "coin-quarter.webp",
+    "label": "quarter",
+    "tags": [
+      "coin:quarter"
+    ],
+    "title": "2006 Quarter Proof.png",
+    "author": "United States Mint",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:2006_Quarter_Proof.png"
+  }
+]
